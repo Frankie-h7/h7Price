@@ -1,6 +1,6 @@
-# Giordano Price 🛍️
+# h7Price 🛍️
 
-**Giordano Price** è una piccola web app che simula un motore di ricerca per offerte sui prodotti.  
+**h7Price** è una piccola web app che simula un motore di ricerca per offerte sui prodotti.  
 L'interfaccia è moderna, scura, con accenti giallo ocra e animazioni al click: semplice, responsive e piacevole da usare.
 
 > ⚠️ Disclaimer:  
